@@ -220,3 +220,17 @@
 # print("Non-repeating characters:", non_repeating_chars)
 
 
+#sort string character in ascending order:
+# s= input("Enter the string : ")
+# str_List=list(s) 
+# sortedString=''.join(sorted(str_List)) 
+# print("String Sorted:", sortedString)
+
+
+#sort string character in descending order:
+# s= input("Enter the string : ")
+# strList=list(s) 
+# String=''.join(sorted(strList, reverse =True)) 
+# print("String Sorted:",String)
+
+
